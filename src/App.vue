@@ -15,7 +15,7 @@
       :variant="'primary'"
       :icon="'code'"
       :iconClass="'ml-2'"
-      :size="'md'"
+      :size="'sm'"
       :setFunction="sayHello"
       :pill="false"
       :squared="false"
@@ -25,7 +25,7 @@
       :variant="'danger'"
       :icon="'code'"
       :iconClass="'ml-2'"
-      :size="'sm'"
+      :size="'md'"
       :setFunction="sayBye"
       :pill="true"
       :squared="false"
@@ -33,12 +33,22 @@
     <Button
       :labelName="'Do something'"
       :variant="'warning'"
-      :icon="'arrow-right-circle'"
+      :icon="'alarm'"
       :iconClass="'ml-2'"
       :size="'lg'"
       :setFunction="doSomething"
       :pill="false"
       :squared="true"
+    />
+    <Button
+      :labelName="'Another action'"
+      :variant="'outline-dark'"
+      :icon="'bookmarks'"
+      :iconClass="'ml-2'"
+      :size="'lmdg'"
+      :setFunction="doSomething"
+      :pill="false"
+      :squared="false"
     />
   </div>
 </template>

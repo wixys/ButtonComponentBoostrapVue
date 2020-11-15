@@ -1,4 +1,9 @@
 <p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
+<p align="center">
+  <a href="https://bootstrap-vue.org">
+    <img src="https://github.com/bootstrap-vue/bootstrap-vue/raw/master/static/banner.png" width="300">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://circleci.com/gh/vuejs/vue/tree/dev"><img src="https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg?sanitize=true" alt="Build Status"></a>

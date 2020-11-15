@@ -7,7 +7,6 @@ Demo: https://codesandbox.io/s/pedantic-bird-o6hwv
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+npm install
 
-```bash
-pip install foobar
+npm run dev

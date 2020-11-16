@@ -1,9 +1,4 @@
 <p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
-<p align="center">
-  <a href="https://bootstrap-vue.org">
-    <img src="https://github.com/bootstrap-vue/bootstrap-vue/raw/master/static/banner.png" width="300">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://circleci.com/gh/vuejs/vue/tree/dev"><img src="https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg?sanitize=true" alt="Build Status"></a>
@@ -14,6 +9,12 @@
   <a href="https://chat.vuejs.org/"><img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg?sanitize=true" alt="Chat"></a>
   <br>
   <a href="https://app.saucelabs.com/builds/50f8372d79f743a3b25fb6ca4851ca4c"><img src="https://app.saucelabs.com/buildstatus/vuejs" alt="Build Status"></a>
+</p>
+
+<p align="center">
+  <a href="https://bootstrap-vue.org">
+    <img src="https://github.com/bootstrap-vue/bootstrap-vue/raw/master/static/banner.png" width="300">
+  </a>
 </p>
 
 
